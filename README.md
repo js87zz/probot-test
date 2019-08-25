@@ -1,3 +1,3 @@
 # probot-test
 
-add text2
+add text2~
